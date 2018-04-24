@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-D:/UNITY-PROJECTS/MenuAbu/build/Abu_alpha.apk
+D:/UNITY-PROJECTS/MenuAbu/build/Abu.apk
 SceneListBegin?
 Assets/scenes/menuPrincipal.unity
 Assets/scenes/seleccionDeNiveles.unity
