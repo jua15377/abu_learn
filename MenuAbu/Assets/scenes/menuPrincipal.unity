@@ -481,6 +481,7 @@ GameObject:
   - component: {fileID: 1357880261}
   - component: {fileID: 1357880263}
   - component: {fileID: 1357880262}
+  - component: {fileID: 1357880264}
   m_Layer: 5
   m_Name: Image
   m_TagString: Untagged
@@ -503,8 +504,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.017499, y: 0.00042255}
-  m_SizeDelta: {x: 118.8, y: 270.21}
+  m_AnchoredPosition: {x: 1012, y: 58.9}
+  m_SizeDelta: {x: 369.2, y: 682.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1357880262
 MonoBehaviour:
@@ -539,6 +540,17 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1357880260}
+--- !u!114 &1357880264
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1357880260}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d9a192e689083e4f9c7641286a2513f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1385504611
 GameObject:
   m_ObjectHideFlags: 0
