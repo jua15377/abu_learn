@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/menuPrincipal.unity
+    guid: ae34389820198434aaf1f912c273c205
+  - enabled: 1
+    path: Assets/Scenes/SeleccionDeNiveles.unity
+    guid: 80bca601bcddde54ebe486fa47ae8e59
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Nivel3_Vocales.unity
+    guid: e9796acd087a24838ad6c04d38cacc8b
+  - enabled: 1
+    path: Assets/Scenes/Nivel2_Vocales.unity
+    guid: 68f3240e588ad44c485710c583a17d86
+  - enabled: 1
+    path: Assets/Scenes/Nivel1_Vocales.unity
+    guid: 1203d6d531f6c43ec9ab992d28c8aa7e
+  - enabled: 1
+    path: Assets/Scenes/Nivel1_ABC.unity
+    guid: d8e142ffeb77247ffa72610742b560bc
+  - enabled: 1
+    path: Assets/Scenes/Nivel1_Numeros.unity
+    guid: 92a08803fae074c77ac07193751c50a3
+  - enabled: 1
+    path: Assets/Scenes/Nivel4_Vocales.unity
+    guid: bcac06c9a97a6481794a761c65541653
+  - enabled: 1
+    path: Assets/Scenes/Nivel5_Vocales.unity
+    guid: e563d5bb371ed4a7d9755afe584e3b59
+  - enabled: 1
+    path: Assets/Scenes/Nivel3_Numeros.unity
+    guid: 3c67eba70e67f43f6a431cb7b7becb70
+  - enabled: 1
+    path: Assets/Scenes/Nivel2_Numeros.unity
+    guid: 2d64f1fe6187d4662bd63eeae52010c1
+  - enabled: 1
+    path: Assets/Scenes/Nivel4_Numeros.unity
+    guid: cad26c9fcb4cb4417adee55d3d72d0d0
+  - enabled: 1
+    path: Assets/Scenes/Nivel5_Numeros.unity
+    guid: 2a5f00a67b64f41648369f5e537bc6ee
+  - enabled: 1
+    path: Assets/Scenes/Nivel14_ABC.unity
+    guid: ff703e1fee0b2479dac28e23daac403a
+  - enabled: 1
+    path: Assets/Scenes/Nivel13_ABC.unity
+    guid: 8c47318d1699e47edbecf759c718cc3c
+  - enabled: 1
+    path: Assets/Scenes/Nivel12_ABC.unity
+    guid: 593cb985c14fb4aaa8800e8d84af216d
+  - enabled: 1
+    path: Assets/Scenes/Nivel11_ABC.unity
+    guid: 8ce50d61722bd4053851345ca3f73060
+  - enabled: 1
+    path: Assets/Scenes/Nivel10_ABC.unity
+    guid: 232bd1c19e75b4fa29701a16ade5ccae
+  - enabled: 1
+    path: Assets/Scenes/Nivel9_ABC.unity
+    guid: b46e4975f6ae84ce69f72cdcce854db0
+  - enabled: 1
+    path: Assets/Scenes/Nivel8_ABC.unity
+    guid: ca661bcfe5ef248de9418df275726cab
+  - enabled: 1
+    path: Assets/Scenes/Nivel7_ABC.unity
+    guid: 3e297a8bccf5c4635ac3d9f5379b1e4e
+  - enabled: 1
+    path: Assets/Scenes/Nivel6_ABC.unity
+    guid: 8f28c8d1cc65947988f2a35431a838b6
+  - enabled: 1
+    path: Assets/Scenes/Nivel5_ABC.unity
+    guid: 43f71c0eb63bc4bb6a59335a302b60a7
+  - enabled: 1
+    path: Assets/Scenes/Nivel4_ABC.unity
+    guid: 5be253e3fffc44b80bb089910e25d0a3
+  - enabled: 1
+    path: Assets/Scenes/Nivel3_ABC.unity
+    guid: 1b8c7203fe1cd4d91a022a1307e3a285
+  - enabled: 1
+    path: Assets/Scenes/Nivel2_ABC.unity
+    guid: 7bf2719548e514094a8930d3f23c2345
+  - enabled: 1
+    path: Assets/Scenes/Instrucciones.unity
+    guid: d75f6bedb5b2d414ab107c86da8c4205
