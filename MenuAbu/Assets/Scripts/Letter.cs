@@ -40,6 +40,7 @@ public class Letter : MonoBehaviour {
 			if (GameController.instance.score > 0) {
 				GameController.instance.score -= 2;
 				GameController.instance.setWrongTaps(1);
+				Handheld.Vibrate ();
 			}
 		}
 			
