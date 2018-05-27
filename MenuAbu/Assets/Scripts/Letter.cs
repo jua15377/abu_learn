@@ -37,7 +37,7 @@ public class Letter : MonoBehaviour {
 			GameController.instance.setLetterInstances(1);
 			this.gameObject.SetActive (false); //para hacer la letra "desaparecer"
 		} else {
-			if (GameController.instance.score > 0) {
+			if (GameController.instance.score >= 0) {
 				GameController.instance.score -= 2;
 				GameController.instance.setWrongTaps(1);
 				Handheld.Vibrate ();

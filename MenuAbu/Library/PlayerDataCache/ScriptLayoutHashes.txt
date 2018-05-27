@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-C:/Users/Alejanddro/Documents/UVG 2018/HCI/PROYECTO/abu_learn/MenuAbu/AbuGame2.apk
+C:/Users/Alejandro-PC/Documents/UVG 2018/HCI/el_proyecto/abu_learn/MenuAbu/AbuGame.apk
 SceneListBegin?
 Assets/Scenes/menuPrincipal.unity
 Assets/Scenes/seleccionDeNiveles.unity

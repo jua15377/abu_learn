@@ -76,7 +76,7 @@ public class GameController : MonoBehaviour {
 	public void setWrongTaps(int value)
 	{
 		wrongTap += value;
-		if (wrongTap > 3) {
+		if (wrongTap >= 3) {
 			gameOver = true;
 		}
 	}
